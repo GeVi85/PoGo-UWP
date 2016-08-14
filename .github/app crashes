@@ -1,0 +1,15 @@
+### **Device info:**
+- Phone type: Lumia 640XL
+- App version: 1.0.25
+
+### **Actual behavior:**
+When app try to retribe user data, popup something its wrong try again, then try again and dont show popup, just crash
+
+### **Expected behavior:**
+
+
+### **Steps to reproduce the problem:**
+Open app, log as ptc and wait
+
+### **Other information:**
+
